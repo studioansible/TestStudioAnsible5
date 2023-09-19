@@ -1,0 +1,4 @@
+- name: Task1
+  ansible.builtin.yum:
+    name: test
+    list: test2
